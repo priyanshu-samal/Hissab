@@ -47,10 +47,6 @@ Hissab is a comprehensive finance application designed to facilitate seamless do
 ![Screenshot](https://github.com/priyanshu-samal/Hissab/assets/73959726/e3da1b2b-dafe-463f-8ea5-ad1167fa3e10)
 
 
-### Transaction History
-![Transaction History Screenshot](link-to-transaction-history-screenshot.png)
-*Detailed view of all your past transactions.*
-
 ### Send Money
 ![Screenshot (242)](https://github.com/priyanshu-samal/Hissab/assets/73959726/cef3ec20-48df-4cef-8876-d5434edddb2f)
 
